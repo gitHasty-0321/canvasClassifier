@@ -1,0 +1,5 @@
+-f https://download.pytorch.org/whl/torch_stable.html
+streamlit==1.10.0
+streamlit-drawable-canvas==0.9.1
+torch==1.12.0
+torchvision==0.13.0
