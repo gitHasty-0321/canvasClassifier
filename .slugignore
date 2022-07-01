@@ -1,2 +1,5 @@
 *.ipynb
 *.md
+*.gitignore
+*.txt
+*.sh
